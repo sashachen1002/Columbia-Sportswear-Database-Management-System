@@ -1,0 +1,49 @@
+[
+   { 
+     "id" : "mro101",
+      "userFirstName": "Bob",
+      "userLastName": "M",
+      "userEmail": "bob@gatelesis.com",
+      "role": "mro"
+  },
+  { 
+   "id" : "2",
+    "userFirstName": "Alice",
+    "userLastName": "Rake",
+    "userEmail": "alice@columbia.com",
+    "role": "AircraftOperator"
+},
+{ 
+   "id" : "3",
+    "userFirstName": "Jim",
+    "userLastName": "Halpert",
+    "userEmail": "jim@aar.com",
+    "role": "Supplier"
+},
+{ 
+   "id" : "mro103",
+    "userFirstName": "Michael",
+    "userLastName": "Scott",
+    "userEmail": "michael@Lufthansa.com",
+    "role": "Supplier"
+},
+{ 
+   "id" : "5",
+    "userFirstName": "Dwight",
+    "userLastName": "B",
+    "userEmail": "dwight@fedex.com",
+    "role":"shipper"
+},
+{ 
+   "id" : "6",
+    "userFirstName": "Reggie",
+    "userLastName": "B",
+    "userEmail": "reggie@regulator.com"
+},
+{ 
+   "id" : "7",
+    "userFirstName": "larry",
+    "userLastName": "",
+    "userEmail": "larry@lawfirm.com"
+}
+ ]
